@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">mytabdemoapp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="sat">Sat</string>
+    <string name="fri">Fri</string>
+    <string name="thu">Thu</string>
+    <string name="wen">Wen</string>
+    <string name="first_name">First Name :</string>
+    <string name="arya">Arya</string>
+    <string name="last_name">Last Name :</string>
+    <string name="stark">stark</string>
+    <string name="age">age</string>
+    <string name="_18">_18</string>
+
+</resources>
